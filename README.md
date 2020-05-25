@@ -18,3 +18,6 @@ Creates json file to display current status of LAN devices and processes. utput 
 
 # alias
 alias to refresh chromium page for dakboard refresh
+
+# startup
+file to place at ~/.config/lxsession/LXDE-pi/autostart to manage boot
